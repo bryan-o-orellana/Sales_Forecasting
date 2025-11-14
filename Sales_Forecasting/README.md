@@ -42,14 +42,34 @@ The dataset contains sales reports from **2022**. The main product is **dress je
 
 ---
 ## 💡 Key Insights
-![Monthly Forecast](assets/proyeccion_mes.png)  
-![Size Distribution](assets/grafica_tallas.png)  
+#1
+
+<img src="assets/Insights_1.jpg" alt="Insights #1" width="500"/> 
+
+ In a comparison between the 3 main colors of the best-selling men's foundation, we noticed a serious trend towards the medium color (this is a color that is neither too dark nor too light), which is consistent with current sales but suggests that something needs to be done about it to rescue the dark shade which does not compete in sales like the other two colors. 
+
+#2
+
+<img src="assets/Insights_2.jpg" alt="Insights #2" width="500"/> 
+
+Something similar happens with ladies and gentlemen; the trend is marked and, although it is consistent with current sales, there is an opportunity to increase and offer more of the different styles of ladies in the future, perhaps with mid-range styles, just like with gentlemen.
+
 
 (Additional charts and insights are available in the `assets/` folder.)
 
 ---
+## Aditional docs
+
+### Forecast report
+
+![Forecast results](/Reporte_Pronóstico.xlsx)
+
+![PDF documentation](/summary.pdf)
+
+---
 
 ## 🗂️ Repository Structure
+```
 Sales_Forecasting/
 │
 ├─ assets/ # Screenshots, charts, and insights
@@ -60,7 +80,7 @@ Sales_Forecasting/
 ├─ README.md # Project overview, methodology, insights
 ├─ summary.pdf # description of the project and results
 └─ reporte_pronostico.xlsx # Summary os the results in excel from forecastpro
-
+```
 ---
 
 ## ✅ Conclusion
@@ -69,3 +89,4 @@ This analysis allows **Intermoda S.A.** to better plan inventory and production 
 ---
 
 *Repository created for portfolio purposes. Complete data cannot be shared due to confidentiality.*
+
