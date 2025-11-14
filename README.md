@@ -28,29 +28,29 @@ The dataset contains sales reports from **2022**. The main product is **dress je
 ### General
 📈 The projection shows a stable trend for the first quarter – barring the marked seasonality of December – in which the sales forecast is higher than in 2025 but slightly lower than in 2024. However, this is considered a good sign of improvement for this specific client.
 
-<img src="assets/General.jpg" alt="General Forecast" width="500"/>  
+<img src="Sales_Forecasting/assets/General.jpg" alt="General Forecast" width="500"/>  
 
 ### Gentlemen jeans
 🌟For the men's category – which makes up the bulk of sales – the improvement is even more remarkable, as the forecast is getting closer to 2024 sales and in some areas even surpasses them, a good upward trend. 
 
-<img src="assets/Gentlemen.jpg" alt="Gentlemen Forecast" width="500"/>   
+<img src="Sales_Forecasting/assets/Gentlemen.jpg" alt="Gentlemen Forecast" width="500"/>   
 
 ### Lady jeans
 🌟With women's jeans the situation changes a little; the trend is not as favorable but it is not downward either; it continues to exceed the 2025 expectation but does not reach the sales of 2024.
 
-<img src="assets/Lady.jpg" alt="Lady Forecast" width="500"/> 
+<img src="Sales_Forecasting/assets/Lady.jpg" alt="Lady Forecast" width="500"/> 
 
 ---
 ## 💡 Key Insights
 #1
 
-<img src="assets/Insights_1.jpg" alt="Insights #1" width="500"/> 
+<img src="Sales_Forecasting/assets/Insights_1.jpg" alt="Insights #1" width="500"/> 
 
  In a comparison between the 3 main colors of the best-selling men's foundation, we noticed a serious trend towards the medium color (this is a color that is neither too dark nor too light), which is consistent with current sales but suggests that something needs to be done about it to rescue the dark shade which does not compete in sales like the other two colors. 
 
 #2
 
-<img src="assets/Insights_2.jpg" alt="Insights #2" width="500"/> 
+<img src="Sales_Forecasting/assets/Insights_2.jpg" alt="Insights #2" width="500"/> 
 
 Something similar happens with ladies and gentlemen; the trend is marked and, although it is consistent with current sales, there is an opportunity to increase and offer more of the different styles of ladies in the future, perhaps with mid-range styles, just like with gentlemen.
 
@@ -62,9 +62,9 @@ Something similar happens with ladies and gentlemen; the trend is marked and, al
 
 ### Forecast report
 
-![Forecast results](/Reporte_Pronóstico.xlsx)
+![Forecast results](Sales_Forecasting/Reporte_Pronóstico.xlsx)
 
-![PDF documentation](/summary.pdf)
+![PDF documentation (Spanish)](Sales_Forecasting/summary.pdf)
 
 ---
 
@@ -79,7 +79,9 @@ Sales_Forecasting/
 │
 ├─ README.md # Project overview, methodology, insights
 ├─ summary.pdf # description of the project and results
-└─ reporte_pronostico.xlsx # Summary os the results in excel from forecastpro
+├─reporte_pronostico.xlsx # Summary os the results in excel from forecastpro
+└─README.md # Project overview, methodology, insights
+ 
 ```
 ---
 
