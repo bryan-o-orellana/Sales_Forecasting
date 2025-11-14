@@ -62,9 +62,9 @@ Something similar happens with ladies and gentlemen; the trend is marked and, al
 
 ### Forecast report
 
-![Forecast results](Sales_Forecasting/Reporte_Pronóstico.xlsx)
+![Forecast results]!(Sales_Forecasting/Reporte_Pronóstico.xlsx)
 
-![PDF documentation (Spanish)](Sales_Forecasting/summary.pdf)
+![PDF documentation (Spanish)]!(Sales_Forecasting/summary.pdf)
 
 ---
 
